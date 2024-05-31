@@ -1,1 +1,1 @@
-Document Management Project using MERN Stack
+Document Management System project using MERN Stack
